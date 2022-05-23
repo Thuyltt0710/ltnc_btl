@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1653314386 source:d:\300baicodethieunhi\ltnc_btl\ltnc_btl\demo_snake\demo\main.cpp
+	"snake.hpp"
+	<iostream>
+	<stdexcept>
+
+1653327221 d:\300baicodethieunhi\ltnc_btl\ltnc_btl\demo_snake\demo\snake.hpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<deque>
+
+1653322914 source:d:\300baicodethieunhi\ltnc_btl\ltnc_btl\demo_snake\demo\snake.cpp
+	"snake.hpp"
+	"sdl_check.hpp"
+
+1650204413 d:\300baicodethieunhi\ltnc_btl\ltnc_btl\demo_snake\demo\sdl_check.hpp
+	<bits/stdc++.h>
+
