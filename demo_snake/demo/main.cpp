@@ -5,14 +5,14 @@ using namespace std;
 
 int main(int argc, char **argv)
 {
-  //try
+  try
   {
     Snake s;
     return s.exec();
-  } //catch (exception &e)
+  } catch (exception &e)
   {
-    //cerr << e.what() << endl;
-    //return 1;
+    cerr << e.what() << endl;
+    return 1;
   }
 }
-// len xuong
+
