@@ -1,5 +1,5 @@
 # ltnc_btl
-Project Game DoMin.
+Project Game Snake.
 
 Code Demo cho bài tập lớn Lập trình Nâng cao UET K66_CACLC3.
 
